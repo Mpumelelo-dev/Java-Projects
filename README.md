@@ -10,7 +10,7 @@ and Udemy online course for Java beginners and spring boot :
 
 https://www.udemy.com/course/java-programming-tutorial-for-beginners/learn/lecture/9565522?start=45#overview
 
-I will be committing my projects as i go to show my progress then at the end i will re-create and update any software as a personal project.
+I will be committing my projects as i go to show my progress then at the end i will work on a real life project as a personal project.
 
 where to reach me :
 
